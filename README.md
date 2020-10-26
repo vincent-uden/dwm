@@ -1,2 +1,3 @@
-# dwm
-My fork of dwm
+# Vincent's build of dwm
+
+Install `libxft-bgra` to get working emojis dwm.
